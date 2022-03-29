@@ -19,6 +19,7 @@
 
 > My nickname is GomQ! 🐻 <br/>
 > As japanese: ゴムキュー
+> I can speak: Korean, English (not well), Japanese (really a little very little possible)
 
 - - -
 
@@ -26,19 +27,33 @@
 - - -
 
 > I am living in S. Korea now! <br/>
-> My hobby is playing games **alone** <br/>
-> Because I don\`t have any friends to play with T_T
+> My hobby is playing games and develop something! <br/>
+
+> Now I am learning..
+  ```
+    - Java
+    - Kotlin
+    - Vue.js
+  ```
+- - -
+
+> Now I am developing..
+  ```
+    - Carrotory (Minecraft RPG Feature Plugin)
+    - Daily Alarm (includes some info such as school lunch menu) Kakaotalk Bot
+    - My website
+  ```
 
 > Games that I played list:
   ```
     - Minecraft
     - Muse Dash
     - A Dance of Fire and Ice
-    - PUBG Mobile
     - Cookie Run: Kingdom
     - Blue Archive
     - MapleStory
-    - Never split the party
+    - Genshin Impact
+    - Princess Connect! Re:Dive
     - Amogus
     + and few things..
   ```
@@ -46,7 +61,7 @@
 > Website <br/>
 > <br/>
 > [igomq.github.io 🐻](https://igomq.github.io) # Will Open! <br/>
-> [GomQ Blog 📘](https://gomq.tistory.com)
+> [GomQ Blog 📘](https://gomq.tistory.com) # Not operating now
 
 
 ### Github Stat
