@@ -18,7 +18,7 @@
 - - -
 
 > My nickname is GomQ! 🐻 <br/>
-> As japanese: ゴムキュー
+> As japanese: ゴムキュー <br/>
 > I can speak: Korean, English (not well), Japanese (really a little very little possible)
 
 - - -
@@ -49,7 +49,6 @@
     - Minecraft
     - Muse Dash
     - A Dance of Fire and Ice
-    - Cookie Run: Kingdom
     - Blue Archive
     - MapleStory
     - Genshin Impact
