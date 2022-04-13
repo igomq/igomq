@@ -34,6 +34,7 @@
     - Java
     - Kotlin
     - Vue.js
+    - GoLang
   ```
 - - -
 
