@@ -33,7 +33,7 @@
   ```
     - Java
     - Kotlin
-    - Vue.js
+    - React
     - GoLang
   ```
 - - -
@@ -42,6 +42,7 @@
   ```
     - Carrotory (Minecraft RPG Feature Plugin)
     - Daily Alarm (includes some info such as school lunch menu) Kakaotalk Bot
+    - Listing Program
     - My website
   ```
 
@@ -53,14 +54,14 @@
     - Blue Archive
     - MapleStory
     - Genshin Impact
-    - Princess Connect! Re:Dive
     - Amogus
+    - DJMax Respect V
     + and few things..
   ```
 - - -
 > Website <br/>
 > <br/>
-> [igomq.github.io 🐻](https://igomq.github.io) # Will Open! <br/>
+> [igomq.github.io 🐻](https://gomq.me) # Will Open! <br/>
 > [GomQ Blog 📘](https://gomq.tistory.com) # Not operating now
 
 
