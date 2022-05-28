@@ -41,8 +41,7 @@
 > Now I am developing..
   ```
     - Carrotory (Minecraft RPG Feature Plugin)
-    - Daily Alarm (includes some info such as school lunch menu) Kakaotalk Bot
-    - Listing Program
+    
     - My website
   ```
 
@@ -62,8 +61,8 @@
 > Website <br/>
 > <br/>
 > [igomq.github.io 🐻](https://gomq.me) # Will Open! <br/>
-> [GomQ Blog 📘](https://gomq.tistory.com) # Not operating now
-
+> [GomQ Blog 📘](https://gomq.tistory.com) # Not operating now <br/>
+> [GomQ WiKi 📖](http://gomq.live) # Its all features are from Wiki Engine
 
 ### Github Stat
 [![GomQ's github stats](https://github-readme-stats.vercel.app/api?username=igomq)](https://github.com/anuraghazra/github-readme-stats)
