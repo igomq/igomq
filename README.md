@@ -41,7 +41,6 @@
 > Now I am developing..
   ```
     - Carrotory (Minecraft RPG Feature Plugin)
-    
     - My website
   ```
 
@@ -60,8 +59,8 @@
 - - -
 > Website <br/>
 > <br/>
-> [igomq.github.io 🐻](https://gomq.me) # Will Open! <br/>
-> [GomQ Blog 📘](https://gomq.tistory.com) # Not operating now <br/>
+> [igomq.github.io 🐻](https://gomq.me) # Now Open! <br/>
+> [GomQ Blog 📘](http://blog.gomq.me) # Starting! <br/>
 > [GomQ WiKi 📖](http://gomq.live) # Its all features are from Wiki Engine
 
 ### Github Stat
