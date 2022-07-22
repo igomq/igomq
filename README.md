@@ -26,7 +26,7 @@
 - - -
 
 > I am living in S. Korea now! <br/>
-> My hobby is playing games and develop something! <br/>
+> My hobby is playing games and developing something! <br/>
 
 > Now I am learning..
   ```
