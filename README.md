@@ -18,8 +18,7 @@
 - - -
 
 > My nickname is GomQ! 🐻 <br/>
-> As japanese: ゴムキュー <br/>
-> I can speak: Korean, English (not well), Japanese (really a little very little possible)
+> As japanese: ゴムキュー 
 
 - - -
 
@@ -40,11 +39,11 @@
 
 > Now I am developing..
   ```
-    - Carrotory (Minecraft RPG Feature Plugin)
-    - My website
+    - Class Website
+    - My Own API Server
   ```
 
-> Games that I played list:
+> Games that I play**ed** list:
   ```
     - Minecraft
     - Muse Dash
