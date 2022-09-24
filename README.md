@@ -12,53 +12,54 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:gomqn@pm.me)](mailto:gomqn@pm.me)
 <br/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGom0927%2FGom0927&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Hello! 🖐️
+## 안녕! 🖐️
 - - -
 
-> My nickname is GomQ! 🐻 <br/>
-> As japanese: ゴムキュー 
+> 곰큐라고하는 어느 한 멍청한 학생이지 🐻 <br/>
+> 일본어 닉네임으로는 ゴムキュー이야!
 
 - - -
 
-## My Info
+## 내 정보
 - - -
 
-> I am living in S. Korea now! <br/>
-> My hobby is playing games and developing something! <br/>
+> 일단 대한민국에 살고있어!<br/>
+> 내 취미는 잡 프로그램들을 만들고 친구들이랑 떠들며 게임하는거야 :) <br/>
 
-> Now I am learning..
+> 내가 현재 배우고있는 개발 관련된 것들은...
   ```
-    - Java
-    - Kotlin
-    - React
-    - GoLang
+    - 자바
+    - 코틀린
+    - Go 언어
+    - 유니티 엔진
   ```
 - - -
 
-> Now I am developing..
+> 현재 만들고있는 것들이야!
   ```
-    - Class Website
-    - My Own API Server
+    - 우리반 웹사이트 :)
+    - 각종 기능의 디스코드 봇들 (RPG, 미니게임)
   ```
 
-> Games that I play**ed** list:
+> 내가 하거나 했던 게임들이야!
   ```
-    - Minecraft
-    - Muse Dash
-    - A Dance of Fire and Ice
-    - Blue Archive
-    - MapleStory
-    - Genshin Impact
-    - Amogus
-    - DJMax Respect V
+    - 마인크래프트
+    - 뮤즈대시
+    - 얼불춤 (부랄춤)
+    - 블루아카
+    - 메이플
+    - 겐쉰
+    - 붕괴
+    - 디맥
+    - 롤 / 롤체
     + and few things..
   ```
 - - -
-> Website <br/>
+> 웹사이트들 (사실 전부다 망함 ㅋㅋㅠㅜㅜ)<br/>
 > <br/>
-> [Github Pages 🐻](https://gomq.me) # Now Closed! <br/>
-> [GomQ Blog 📘](http://blog.gomq.me) # eNd <br/>
-> [GomQ WiKi 📖](https://wiki.gomq.live) # My Own Online Encyclopedia
+> [깃헙 페이지 🐻](https://gomq.me) # 포트폴리오 + 잡기능 웹사이트로 돌아올 예정! <br/>
+> [개인 블로그 📘](http://blog.gomq.me) # 운영 안할거야 귀찮아 아마 나중에 velog에다 개발하면서 생긴걸 적어볼까 싶어 <br/>
+> [곰큐위키! 📖](https://wiki.gomq.live) # 내 개인위키! 맘대로 써도 문제업서
 
-### Github Stat
-[![GomQ's github stats](https://github-readme-stats.vercel.app/api?username=igomq)](https://github.com/anuraghazra/github-readme-stats)
+### 곰큐곰큐 깃허브 스텟!
+[![깃헙스텟](https://github-readme-stats.vercel.app/api?username=igomq)](https://github.com/anuraghazra/github-readme-stats)
