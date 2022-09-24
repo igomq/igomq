@@ -56,9 +56,9 @@
 - - -
 > Website <br/>
 > <br/>
-> [igomq.github.io 🐻](https://gomq.me) # Now Open! <br/>
-> [GomQ Blog 📘](http://blog.gomq.me) # Starting! <br/>
-> [GomQ WiKi 📖](https://wiki.gomq.live) # Its all features are from Wiki Engine
+> [igomq.github.io 🐻](https://gomq.me) # Now Closed! <br/>
+> [GomQ Blog 📘](http://blog.gomq.me) # eNd <br/>
+> [GomQ WiKi 📖](https://wiki.gomq.live # My Own Online Encyclopedia
 
 ### Github Stat
 [![GomQ's github stats](https://github-readme-stats.vercel.app/api?username=igomq)](https://github.com/anuraghazra/github-readme-stats)
