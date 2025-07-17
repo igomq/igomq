@@ -31,8 +31,6 @@
 
 ### ☎️ Contact
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/me/main)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tmdcks27)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_igomq)
 -- -- --
 [![igomq's GitHub stats](https://github-readme-stats.vercel.app/api?username=igomq)](https://github.com/anuraghazra/github-readme-stats)
 </div>
